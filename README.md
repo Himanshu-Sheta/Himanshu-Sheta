@@ -1,96 +1,205 @@
 # 👋 Hi, I'm Himanshu Sheta
 
-🚀 **Software Developer | Web Development | Data Visualization | Embedded Systems**
+🚀 **Software Developer | Full-Stack Developer | AI & Data Analytics Enthusiast**
 
-I’m currently pursuing my **Master’s in Applied Computer Science** at Deggendorf Institute of Technology, Germany.  
-I have hands-on experience building modern, scalable, and data-driven applications using **Python**, **React**, **Next.js**, and **PHP**.  
-I love solving real-world problems with clean, efficient code and intuitive user interfaces.
+I'm currently pursuing a **Master's in Applied Computer Science** at Deggendorf Institute of Technology, Germany.
 
-📍 Deggendorf, Germany  
-📧 [himanshusheta2022@gmail.com](mailto:himanshusheta2022@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/himanshu-sheta)
+I enjoy building scalable web applications, developing data-driven solutions, and applying Artificial Intelligence and Machine Learning to solve real-world problems. My experience includes software development with **Python, JavaScript, TypeScript, React.js, Next.js, PHP, SQL**, and working with modern web technologies, REST APIs, and data analytics tools.
 
----
+I'm actively seeking **Software Development, Full-Stack Development, AI, and Data Analytics** opportunities where I can contribute, learn, and grow as an engineer.
 
-## 🧑‍🎓 Education
-- 🎓 **Master of Applied Computer Science** — Deggendorf Institute of Technology, Germany *(Since 10/2023)*  
-  *Focus: Web Development, Embedded Software, Machine Learning, FPGA Programming, Advanced Mathematics, Compiler Construction*
+📍 Deggendorf, Germany
 
-- 🎓 **Bachelor of Computer Application** — Veer Narmad South Gujarat University, India *(06/2017 – 04/2020)*  
-  *Focus: C Programming, OOP, Java, Web Design, PHP, MySQL, Linux*
+📧 himanshusheta2022@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/himanshu-sheta
 
 ---
 
-## 💼 Work Experience
+# 🧑‍🎓 Education
 
-### 💻 Working Student Software Development — **TI4F GmbH**, Germany *(04/2024 – 09/2025)*
-- Created interactive dashboards and visualizations using **Python**, **Pandas**, and **Plotly**
-- Developed scalable **Next.js** and **React.js** applications with Redux
-- Integrated RESTful APIs and implemented backend logic
-- Built WebSocket-based real-time features
-- Ensured responsive, accessible, and high-performance UI
-- Contributed SaaS features to optimize user engagement
-- Collaborated with interdisciplinary teams in agile environments
+### 🎓 Master of Applied Computer Science
+**Deggendorf Institute of Technology, Germany**
+*October 2023 – Present*
 
-### 🧑‍💻 PHP Developer — **Dyrect Digital Pvt. Ltd.**, India *(02/2020 – 11/2021)*
-- Built responsive UI with HTML, CSS, and JavaScript
-- Maintained and enhanced React.js and PHP-based platforms
-- Designed MySQL databases and implemented ORM
-- Used SCSS for modular styles
-- Improved frontend accessibility and user experience
+Relevant Areas:
+- Artificial Intelligence
+- Machine Learning
+- Data Analytics
+- Software Engineering
+- Web Development
+- Database Systems
 
 ---
 
-## 🚀 Featured Projects
-
-### 🩺 [Data Visualization Project](#)
-*03/2023 – 06/2023*  
-- Analyzed large U.S. disease datasets using Python and Pandas  
-- Applied clustering analysis to identify and prioritize key diseases  
-- Built clear, interactive visualizations for decision-making support
-
-### 🌱 [Mantra Renewable Energy Website](#)
-*03/2022 – 05/2022*  
-- Developed secure web-based employee management system using HTML, CSS, Bootstrap, JavaScript, PHP, Django  
-- Implemented authentication, attendance tracking, and responsive design  
-- Improved data quality and internal communication workflows
-
-### 🏨 [Hotel Waiting Management System](#)
-*10/2019 – 03/2020*  
-- Built a web-based waitlist management system for receptionists and guests  
-- Added real-time updates and communication features using PHP and JavaScript
+### 🎓 Bachelor of Computer Application
+**Veer Narmad South Gujarat University, India**
+*June 2017 – April 2020*
 
 ---
 
-## 🧰 Technical Skills
+# 💼 Professional Experience
 
-- **Languages:** C, C++, PHP, JavaScript, TypeScript, Python, R  
-- **Databases:** MySQL, PostgreSQL, MongoDB  
-- **Data Science & ML:** Pandas, NumPy, Scikit-learn, TensorFlow (basic)  
-- **Web Development:** HTML, CSS, SCSS, Bootstrap, React.js, Next.js, Vue.js, Node.js, TypeScript, AJAX, RESTful APIs, WebSockets  
-- **Tools:** VS Code, Visual Studio, GitHub, GitLab  
-- **Methodologies:** Agile, Scrum  
-- **OS:** Mac OS, Windows, Ubuntu
+## Working Student – Software Development
+**TI4F GmbH | Germany**
+*Apr 2024 – Sep 2025*
 
----
-
-## 🌍 Languages
-- English — Fluent (Advanced)  
-- German — Intermediate (B1)
+- Developed web applications using React.js, Next.js and TypeScript
+- Built Python applications for data processing and automation
+- Designed SQL queries for structured data analysis
+- Integrated REST APIs into modern web applications
+- Debugged, tested and improved application performance
+- Collaborated in Agile Scrum teams using Git, Jira and Postman
 
 ---
 
-## 🏋️ Hobbies & Interests
-- Fitness and regular gym training  
-- Playing sports (cricket, table tennis)  
-- Listening to music to relax and stay motivated
+## PHP Developer
+**Dyrect Digital Pvt. Ltd. | India**
+*Feb 2020 – Nov 2021*
+
+- Developed dynamic web applications using PHP, JavaScript, HTML and CSS
+- Designed and maintained MySQL databases
+- Implemented CRUD operations and backend business logic
+- Improved application performance and user experience
+
+---
+
+# 🚀 Featured Projects
+
+## 🌞 Solar Rooftop Capacity Prediction
+
+- Python
+- OpenCV
+- Scikit-learn
+- Machine Learning
+- Image Processing
+- Predictive Modelling
+
+---
+
+## 📊 AI-Powered Data Analytics
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Exploratory Data Analysis
+- Data Visualization
+- Machine Learning
+
+---
+
+## ⚙️ Process Optimization
+
+- Data Analysis
+- Statistical Analysis
+- Business Process Optimization
+- Data-Driven Decision Making
+
+---
+
+## 🏨 Hotel Waiting Management System
+
+- PHP
+- JavaScript
+- HTML
+- CSS
+- MySQL
+
+---
+
+# 💻 Technical Skills
+
+### Programming Languages
+
+- Python
+- JavaScript
+- TypeScript
+- PHP
+- SQL
+- C
+- C++
+
+### Artificial Intelligence & Data Analytics
+
+- Machine Learning
+- Data Analysis
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Predictive Modelling
+- Statistical Analysis
+
+### Libraries
+
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- OpenCV
+
+### Frontend
+
+- React.js
+- Next.js
+- HTML5
+- CSS3
+
+### Backend
+
+- REST APIs
+- PHP
+
+### Databases
+
+- PostgreSQL
+- MySQL
+
+### Tools
+
+- Git
+- GitHub
+- Linux
+- Jupyter Notebook
+- VS Code
+- Jira
+- Postman
+
+### Methodologies
+
+- Agile Scrum
+
+---
+
+# 🌍 Languages
+
+- 🇬🇧 English (C1)
+- 🇩🇪 German (B1)
+
+---
+
+# 🎯 Interests
+
+- Artificial Intelligence
+- Software Engineering
+- Data Analytics
+- Open Source
+- Cloud Technologies
+
+---
+
+# 📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/himanshu-sheta
+- Email: himanshusheta2022@gmail.com
 
 ---
 
 ## 📈 GitHub Stats
-![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
 
 ---
 
-> ✨ *“Code is like humor. When you have to explain it, it’s bad.”* — Cory House
+> **"Always learning. Always building. Always improving." 🚀**
