@@ -51,11 +51,11 @@ I am a Software Engineer specializing in **Full-Stack Application Development**,
 * **Tech Stack:** Python, Pandas, Scikit-learn, Random Forest Regressor, Streamlit.
 * End-to-end data pipeline from Kaggle data ingestion and EDA to trained ML models and an interactive Streamlit UI.
 
-#### 3. ☀️ Solar Rooftop Capacity Prediction
+#### 3. [☀️ Solar Rooftop Capacity Prediction](https://github.com/Himanshu-Sheta/solar-rooftop-capacity-prediction)
 * **Tech Stack:** Python, OpenCV, Scikit-learn, Satellite Computer Vision.
 * Built automated computer vision preprocessing and feature extraction pipelines to estimate solar generation capacity from rooftop aerial imagery.
 
-#### 4. 🤖 AI Automation & Data Analytics Platform
+#### 4. [🤖 AI-Native ETL Automation Platform](https://github.com/Himanshu-Sheta/ai-native-etl-automation)
 * **Tech Stack:** Python, Pandas, Scikit-learn, LLM APIs.
 * Automated ETL workflows and data validation pipelines powered by LLM processing for structured datasets.
 
