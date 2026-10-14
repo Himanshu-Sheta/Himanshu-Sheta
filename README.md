@@ -1,228 +1,78 @@
-# 👋 Hi, I'm Himanshu Sheta
+<div align="center">
 
-🚀 Software Developer | Full-Stack Developer | AI & Data Engineering Enthusiast
+# Hi there, I'm Himanshu Sheta 👋
+### AI-Native Software Engineer | Python & TypeScript | LLM Integration
 
-I'm currently pursuing a **Master's in Applied Computer Science** at **Deggendorf Institute of Technology, Germany**.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-sheta)
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-2563EB?style=for-the-badge&logo=render&logoColor=white)](https://himanshusheta-portfolio.onrender.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himanshusheta2022@gmail.com)
 
-I enjoy building scalable web applications, designing REST APIs, developing data processing pipelines, and applying Machine Learning and Computer Vision to solve real-world problems. My experience spans full-stack software development, data engineering, and AI-powered applications using modern technologies.
+<p align="center">
+  📍 <b>Based in:</b> Deggendorf, Germany (Relocation possible: Kronberg / Regensburg / Munich) <br>
+  🎓 <b>Education:</b> Master of Applied Computer Science @ Technische Hochschule Deggendorf <br>
+  🗣️ <b>Languages:</b> German (B1/B2 Mittelstufe) | English (C1 Fluent) | Hindi (Native)
+</p>
 
-📍 Deggendorf, Germany
-
-📧 himanshusheta2022@gmail.com
-
-💼 LinkedIn: https://www.linkedin.com/in/himanshu-sheta
-
----
-
-# 🎓 Education
-
-## Master of Applied Computer Science
-**Deggendorf Institute of Technology, Germany**
-*October 2023 – Present*
-
-**Focus Areas**
-- Artificial Intelligence
-- Machine Learning
-- Data Analysis
-- Computer Vision
-- FPGA
-- Compiler Construction
+</div>
 
 ---
 
-## Bachelor of Computer Applications
-**Veer Narmad South Gujarat University, India**
-*June 2017 – April 2020*
+### 🚀 About Me
 
-**Focus Areas**
-- Programming
-- Data Structures
-- Databases
-- Algorithms
-- Web Applications
+I am a Software Engineer specializing in **Full-Stack Application Development**, **LLM Integration**, and **Data Engineering Pipelines**. 
+
+- 💼 **Experience:** Working Student Software Developer at **TI4F GmbH (Germany)**, integrating LLM-APIs into production workflows, building REST APIs, and working with Docker & CI/CD.
+- 🔬 **Master's Thesis:** Python-based data extraction, transformation, validation, and harmonization across multi-country energy datasets with SQL workflows.
+- 🎯 **Current Focus:** AI-Native Engineering, Enterprise Agentic Workflows, Full-Stack TypeScript/Python, and scalable cloud architectures.
 
 ---
 
-# 💼 Professional Experience
+### 🛠️ Tech Stack & Skills
 
-## Working Student – Software Developer
-**TI4F GmbH | Germany**
-*Apr 2024 – Oct 2025*
-
-- Developed production-ready full-stack web applications using React.js, Next.js, TypeScript and Python.
-- Built responsive user interfaces and integrated REST APIs with SQL databases.
-- Processed and validated structured datasets while improving application performance.
-- Collaborated in Agile Scrum teams using Git and Jira to deliver production-ready software.
-
----
-
-## Software Developer
-**Dyrect Digital Pvt. Ltd. | India**
-*Feb 2020 – Nov 2021*
-
-- Developed full-stack web applications using PHP, JavaScript, HTML, CSS and MySQL.
-- Designed responsive user interfaces and implemented backend functionality.
-- Developed and optimized SQL database operations.
-- Performed software testing, debugging and maintenance.
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **AI & LLM Integration** | `LLM APIs in Production Code` `Prompt Engineering` `AI Code Assistants` `Scikit-learn` `OpenCV` |
+| **Languages** | `Python` `TypeScript` `JavaScript (ES6+)` `Java` `PHP` `SQL` `C / C++` |
+| **Frontend** | `React.js` `Next.js` `Tailwind CSS` `Bootstrap` `HTML5` `CSS3` |
+| **Backend & APIs** | `FastAPI` `Flask` `Node.js` `REST APIs` |
+| **Databases** | `PostgreSQL` `MongoDB` `MySQL` `Relational Data Modeling` |
+| **DevOps & Delivery** | `Docker` `Kubernetes` `Git & GitHub` `CI/CD Pipelines` `Linux` `Jira (Scrum / Kanban)` |
 
 ---
 
-# 🚀 Projects
+### 💻 Featured Projects
 
-## 🌍 Renewable Energy Data Harmonization (Master's Thesis)
+#### 1. [🌐 Developer Portfolio Website](https://github.com/Himanshu-Sheta/himanshu-portfolio)
+* **Tech Stack:** Next.js (App Router), React 19, TypeScript, Tailwind CSS, Render CI/CD.
+* **Live Demo:** [himanshusheta-portfolio.onrender.com](https://himanshusheta-portfolio.onrender.com)
+* Modern, responsive portfolio showcasing interactive architecture, project highlights, and work history.
 
-- Python
-- Data Processing
-- Data Transformation
-- Machine Learning
-- Statistical Analysis
-- Data Visualization
+#### 2. [🌍 Air Quality Prediction Dashboard](https://github.com/Himanshu-Sheta/air-quality-dashboard1)
+* **Tech Stack:** Python, Pandas, Scikit-learn, Random Forest Regressor, Streamlit.
+* End-to-end data pipeline from Kaggle data ingestion and EDA to trained ML models and an interactive Streamlit UI.
 
-Processed and harmonized renewable energy datasets across Germany, Austria, the Netherlands and the Czech Republic while developing automated preprocessing pipelines and analytical visualizations.
+#### 3. ☀️ Solar Rooftop Capacity Prediction
+* **Tech Stack:** Python, OpenCV, Scikit-learn, Satellite Computer Vision.
+* Built automated computer vision preprocessing and feature extraction pipelines to estimate solar generation capacity from rooftop aerial imagery.
 
----
-
-## ☀️ Solar Rooftop Capacity Prediction
-
-- Python
-- OpenCV
-- Scikit-learn
-- Machine Learning
-- Computer Vision
-
-Built an AI-powered computer vision application to estimate rooftop solar capacity using satellite imagery.
+#### 4. 🤖 AI Automation & Data Analytics Platform
+* **Tech Stack:** Python, Pandas, Scikit-learn, LLM APIs.
+* Automated ETL workflows and data validation pipelines powered by LLM processing for structured datasets.
 
 ---
 
-## 📊 AI-Powered Data Analytics
+### 📊 GitHub Statistics
 
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Data Analysis
-- Machine Learning
-
-Developed machine learning applications with automated preprocessing pipelines and predictive analytics.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Himanshu-Sheta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu-Sheta&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</div>
 
 ---
 
-## 🏨 Hotel Waiting Management System
+### 📫 Connect With Me
 
-- PHP
-- JavaScript
-- HTML
-- CSS
-- MySQL
-
-Designed and developed a full-stack web application for restaurant queue management.
-
----
-
-# 💻 Technical Skills
-
-### Programming Languages
-- Python
-- JavaScript
-- TypeScript
-- PHP
-- SQL
-- Java (Basic)
-
-### Frontend
-- React.js
-- Next.js
-- HTML5
-- CSS3
-- Responsive Web Design
-
-### Backend
-- Python
-- PHP
-- Flask
-- FastAPI
-- REST APIs
-
-### Databases
-- PostgreSQL
-- MySQL
-- Relational Databases
-
-### AI & Data
-- Machine Learning
-- Data Analysis
-- OpenCV
-- Scikit-learn
-- Pandas
-- NumPy
-
-### Software Development
-- Full-Stack Development
-- Object-Oriented Programming
-- Web Application Development
-- API Development
-- Software Testing
-- Debugging
-
-### Development Tools
-- Git
-- GitHub
-- Jira
-- Postman
-- Linux
-- VS Code
-
-### Methodologies
-- Agile Scrum
-
----
-
-# 🌍 Languages
-
-- 🇬🇧 English (C1)
-- 🇩🇪 German (B1)
-
----
-
-# 🌱 Currently Learning
-
-- Data Engineering
-- Cloud Technologies
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Software Architecture
-
----
-
-# 🎯 Interests
-
-- Full-Stack Development
-- Artificial Intelligence
-- Machine Learning
-- Data Engineering
-- Computer Vision
-- Open Source
-
----
-
-# 📫 Connect with Me
-
-📧 Email: himanshusheta2022@gmail.com
-
-💼 LinkedIn: https://www.linkedin.com/in/himanshu-sheta
-
-🌐 GitHub: https://github.com/Himanshu-Sheta
-
----
-
-## 📈 GitHub Stats
-
-> Replace **Himanshu-Sheta** below with your exact GitHub username if it differs.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Himanshu-Sheta&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu-Sheta&layout=compact&theme=default)
-
----
-
-⭐ I enjoy building practical software, solving real-world problems with data, and continuously learning new technologies.
+- 💼 **LinkedIn:** [linkedin.com/in/himanshu-sheta](https://www.linkedin.com/in/himanshu-sheta)
+- 🌐 **Live Portfolio:** [himanshusheta-portfolio.onrender.com](https://himanshusheta-portfolio.onrender.com)
+- 📧 **Direct Email:** [himanshusheta2022@gmail.com](mailto:himanshusheta2022@gmail.com)
+- 📱 **Phone:** +49 176 57828590
