@@ -65,6 +65,12 @@ I am a Software Engineer specializing in **Full-Stack Application Development**,
 
 ---
 
+#### 6. [🏨 Hotel Waiting Management System (BCA Capstone)](https://github.com/Himanshu-Sheta/hotel-waiting-management-system)
+* **Tech Stack:** PHP, MySQL, JavaScript (ES6+), HTML5, CSS3, Bootstrap.
+* Full-stack hospitality waiting & reservation system developed as Bachelor of Computer Applications graduation capstone (22 normalized relational tables, multi-tenant hotel admin, customer queue portal).
+
+---
+
 ### 📊 GitHub Statistics
 
 <div align="center">
