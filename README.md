@@ -24,6 +24,7 @@ Open to **Full Stack / Software Engineer / Frontend / Data Analyst** roles in Ge
 | [k8s-fastapi-redis](https://github.com/Himanshu-Sheta/k8s-fastapi-redis) | Microservice on Kubernetes with probes, rolling updates and monitoring | Kubernetes, FastAPI, Redis, Prometheus, Grafana |
 | [project-tycho-us-disease-analytics](https://github.com/Himanshu-Sheta/project-tycho-us-disease-analytics) | University project (2024): ETL + dashboard over 3.6M disease records (1887–2014) | Python, Pandas, Streamlit, Plotly |
 | [ai-native-etl-automation](https://github.com/Himanshu-Sheta/ai-native-etl-automation) | Data pipelines with validation, anomaly checks and a typed TS client | Python, FastAPI, Pandas, TypeScript |
+| [hotel-waiting-management-system](https://github.com/Himanshu-Sheta/hotel-waiting-management-system) | Bachelor project (2019–2020): restaurant waiting list, table matching, hall booking, admin analytics | PHP, JavaScript, Bootstrap, MySQL |
 | [himanshu-portfolio](https://github.com/Himanshu-Sheta/himanshu-portfolio) | My portfolio site | Next.js, React 19, Tailwind |
 
 ## Tech
