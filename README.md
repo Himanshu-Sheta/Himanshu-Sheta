@@ -20,9 +20,9 @@ Open to **Full Stack / Software Engineer / Frontend / Data Analyst** roles in Ge
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [hybrid-rag-chatbot](https://github.com/Himanshu-Sheta/hybrid-rag-chatbot) | Chat with your documents: BM25 + vector search (RRF), citations, streaming, prompt-injection & PII filter, 14 tests | Python, FastAPI, Pydantic, Docker |
-| [decom-industries-fullstack](https://github.com/Himanshu-Sheta/decom-industries-fullstack) | E-commerce storefront + admin dashboard, transactional orders, user/admin roles *(in progress)* | Next.js, TypeScript, Express, Prisma, PostgreSQL |
+| [decom-industries-fullstack](https://github.com/Himanshu-Sheta/decom-industries-fullstack) | 🚧 In progress: e-commerce storefront + admin dashboard, transactional orders, user/admin roles (screenshots in README) | Next.js, TypeScript, Express, Prisma, PostgreSQL |
 | [k8s-fastapi-redis](https://github.com/Himanshu-Sheta/k8s-fastapi-redis) | Microservice on Kubernetes with probes, rolling updates and monitoring | Kubernetes, FastAPI, Redis, Prometheus, Grafana |
-| [project-tycho-us-disease-analytics](https://github.com/Himanshu-Sheta/project-tycho-us-disease-analytics) | ETL + dashboard over 3.6M disease records (1887–2014) | Python, Pandas, Streamlit, Plotly |
+| [project-tycho-us-disease-analytics](https://github.com/Himanshu-Sheta/project-tycho-us-disease-analytics) | University project (2024): ETL + dashboard over 3.6M disease records (1887–2014) | Python, Pandas, Streamlit, Plotly |
 | [ai-native-etl-automation](https://github.com/Himanshu-Sheta/ai-native-etl-automation) | Data pipelines with validation, anomaly checks and a typed TS client | Python, FastAPI, Pandas, TypeScript |
 | [himanshu-portfolio](https://github.com/Himanshu-Sheta/himanshu-portfolio) | My portfolio site | Next.js, React 19, Tailwind |
 
